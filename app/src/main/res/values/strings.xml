@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VolumeConverter</string>
+    <string name="text1">text1</string>
+    <string name="volume_converter">Volume Converter</string>
+    <string name="sphere_volume">Sphere Volume</string>
+    <string name="enter_the_radius">Enter the radius value</string>
+    <string name="calculate">Calculate</string>
+    <string name="cube_volume">Cube Volume</string>
+    <string name="enter_the_value">Enter the value</string>
+    <string name="cylinder">Cylinder</string>
+    <string name="enter_height_value">Enter height value</string>
+    <string name="enter_radius_value">Enter radius value</string>
+    <string name="prism">Prism</string>
+</resources>
